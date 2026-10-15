@@ -1,0 +1,6 @@
+{
+  "name": "citing-authors",
+  "version": "1.0.0",
+  "description": "Find who cites a researcher: list their PubMed papers, collect the papers citing them, and chart the authors who cite them most.",
+  "keywords": ["pubmed", "citations", "bibliometrics", "research"]
+}
