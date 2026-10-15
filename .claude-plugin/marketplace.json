@@ -1,0 +1,14 @@
+{
+  "name": "akaplanz1-skills",
+  "description": "Research skills for Claude Code.",
+  "owner": {
+    "name": "akaplanz1"
+  },
+  "plugins": [
+    {
+      "name": "citing-authors",
+      "source": "./",
+      "description": "Find who cites a researcher and chart their top citing authors from PubMed."
+    }
+  ]
+}
